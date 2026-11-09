@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="557" viewBox="0 0 360 557" role="img">
+  <title>From project to GitHub</title>
+  <defs><marker id="arrow" markerWidth="5" markerHeight="5" refX="4.3" refY="2.5" orient="auto"><path d="M0 0l5 2.5L0 5z" fill="#9ba7ce"/></marker></defs>
+  <rect x=".5" y=".5" width="359" height="556" rx="20" fill="#f7f9ff" stroke="#d2dbef"/>
+  <g font-family="Segoe UI, Microsoft YaHei UI, PingFang SC, Noto Sans CJK SC, sans-serif">
+    <text x="18" y="41" font-size="24" font-weight="700" fill="#172342">From project to GitHub</text>
+    <rect x="16" y="64" width="328" height="74" rx="13" fill="#ffffff" stroke="#d2dbef"/><text x="29" y="95" font-size="17" font-weight="700" fill="#3f4c9e">01</text><text x="61" y="95" font-size="22" font-weight="700" fill="#172342">Confirm scope</text><text x="61" y="122" font-size="18" font-weight="400" fill="#40506e">Project, version and target</text>
+    <rect x="16" y="152" width="328" height="74" rx="13" fill="#ffffff" stroke="#d2dbef"/><text x="29" y="183" font-size="17" font-weight="700" fill="#3f4c9e">02</text><text x="61" y="183" font-size="22" font-weight="700" fill="#172342">Prepare materials</text><text x="61" y="210" font-size="18" font-weight="400" fill="#40506e">Docs, visuals and assets</text>
+    <rect x="16" y="240" width="328" height="74" rx="13" fill="#ffffff" stroke="#d2dbef"/><text x="29" y="271" font-size="17" font-weight="700" fill="#3f4c9e">03</text><text x="61" y="271" font-size="22" font-weight="700" fill="#172342">Verify locally</text><text x="61" y="298" font-size="18" font-weight="400" fill="#40506e">Pages, files and checksums</text>
+    <rect x="31" y="338" width="313" height="94" rx="13" fill="#ffffff" stroke="#d2dbef"/><text x="46" y="362" font-size="16" font-weight="700" fill="#3f4c9e">Candidate only</text><text x="46" y="388" font-size="22" font-weight="700" fill="#172342">Hand off the local draft</text><text x="46" y="414" font-size="17" font-weight="400" fill="#40506e">Preview, ZIP and check results</text>
+    <rect x="31" y="447" width="313" height="94" rx="13" fill="#eceffc" stroke="#d2dbef"/><text x="46" y="471" font-size="16" font-weight="700" fill="#3f4c9e">Authorized to publish</text><text x="46" y="497" font-size="22" font-weight="700" fill="#172342">Publish and verify</text><text x="46" y="523" font-size="17" font-weight="400" fill="#40506e">Check public pages and downloads</text>
+    <path d="M180 139v10" fill="none" stroke="#9ba7ce" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M180 227v10" fill="none" stroke="#9ba7ce" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M180 315v10H17v170" fill="none" stroke="#9ba7ce" stroke-width="2.5"/>
+    <path d="M17 386h10" fill="none" stroke="#9ba7ce" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M17 495h10" fill="none" stroke="#9ba7ce" stroke-width="2.5" marker-end="url(#arrow)"/>
+  </g>
+</svg>
