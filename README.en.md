@@ -4,9 +4,17 @@
 
 Turn an existing **Agent Skill or Windows desktop app** into a GitHub release you can review, publish, and verify. Provide the project and scope. Release Publisher aligns the introduction, visuals, installation links, release package, and version record.
 
+<a id="latest-release"></a>
+
+> **Latest version · v1.1.0**
+>
+> Skill and software releases now include a bilingual latest-version summary with the correct download and full release notes.
+>
+> [Download the update](https://github.com/xmonk888-art/release-publisher/releases/download/v1.1.0/release-publisher-v1.1.0.zip) · [Full release notes](https://github.com/xmonk888-art/release-publisher/releases/tag/v1.1.0)
+
 ## Install and invoke
 
-1. Extract [release-publisher-v1.0.0.zip](https://github.com/xmonk888-art/release-publisher/releases/download/v1.0.0/release-publisher-v1.0.0.zip) to get the `release-publisher` directory.
+1. Extract [release-publisher-v1.1.0.zip](https://github.com/xmonk888-art/release-publisher/releases/download/v1.1.0/release-publisher-v1.1.0.zip) to get the `release-publisher` directory.
 2. Copy the entire directory into your project's `.agents/skills/` so the entry point is `.agents/skills/release-publisher/SKILL.md`. For use across projects, place it under `~/.agents/skills/`. Check the installed version and any local customizations if a skill with the same name exists.
 3. Open the project in Codex and type `$release-publisher` followed by your task. If the skill is missing from the list, reopen Codex and check again. [Codex skill locations](https://learn.chatgpt.com/docs/build-skills#where-codex-loads-local-skills)
 

@@ -4,9 +4,17 @@
 
 把现有的 **Agent Skill 或 Windows 桌面软件** 整理成可审阅、可发布、可核验的 GitHub 发行。你给出项目和本轮范围，发布助手负责把介绍、配图、安装入口、发行包和版本记录对齐。
 
+<a id="latest-release"></a>
+
+> **最新版 · v1.1.0**
+>
+> Skill 和软件发布时，自动在中英文首页加入最新版摘要，并核对对应的下载和完整更新说明。
+>
+> [下载新版](https://github.com/xmonk888-art/release-publisher/releases/download/v1.1.0/release-publisher-v1.1.0.zip) · [完整更新说明](https://github.com/xmonk888-art/release-publisher/releases/tag/v1.1.0)
+
 ## 安装与调用
 
-1. 取得 [release-publisher-v1.0.0.zip](https://github.com/xmonk888-art/release-publisher/releases/download/v1.0.0/release-publisher-v1.0.0.zip)，解压得到 `release-publisher` 文件夹。
+1. 取得 [release-publisher-v1.1.0.zip](https://github.com/xmonk888-art/release-publisher/releases/download/v1.1.0/release-publisher-v1.1.0.zip)，解压得到 `release-publisher` 文件夹。
 2. 将整个文件夹放到项目的 `.agents/skills/` 下，使入口为 `.agents/skills/release-publisher/SKILL.md`。要跨项目使用，可放到用户的 `~/.agents/skills/` 下。若有同名技能，先核对现有版本和自定义内容。
 3. 在 Codex 中打开项目，输入 `$release-publisher` 加上任务。如果列表尚未显示，重新打开 Codex 后再检查。[Codex 技能安装位置](https://learn.chatgpt.com/docs/build-skills#where-codex-loads-local-skills)
 
