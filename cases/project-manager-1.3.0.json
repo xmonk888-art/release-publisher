@@ -1,0 +1,16 @@
+{
+  "project": "project-manager",
+  "version": "1.3.0",
+  "publisher_version": "1.2.0",
+  "date": "2026-11-18",
+  "source_commit": "52e7ebae0cb7f02f0a8a0aed253fa2d2e28a4b99",
+  "release": "https://github.com/xmonk888-art/project-manager/releases/tag/project-manager-v1.3.0",
+  "download": "https://github.com/xmonk888-art/project-manager/releases/download/project-manager-v1.3.0/project-manager-1.3.0.zip",
+  "zip_sha256": "22543531112fcfd836658b3a41cebc796312ae5b8b6185fdeef14be4a95733c0",
+  "zip_files": 47,
+  "public_visual_assets": 24,
+  "browser_scenarios": 8,
+  "phone_method": "browser viewport emulation",
+  "installer": "isolated skill-installer git method; no second-computer/client-discovery test",
+  "evidence_type": "sanitized maintainer-reported publication summary"
+}
